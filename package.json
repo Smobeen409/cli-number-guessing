@@ -1,6 +1,6 @@
 {
   "name": "4th-live-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is cli guessing number game",
   "main": "index.js",
   "type": "module",
